@@ -91,7 +91,7 @@ export default class App extends Component{
       return (
         
         <View style={styles.mainContainer}>
-        
+        <Text>Hi</Text>
          <GiftedChat style={styles.chatDiv}
          renderAvatarOnTop = {true}
          bottomOffset= {300}
